@@ -31,7 +31,7 @@ document.onkeyup = function (event) {
 		"<p>Losses: " +
 		losses +
 		"</p>" +
-		"<p>Guesses left: " +
+		"<p>Guesses right: " +
 		guessesLeft +
 		"</p>" +
 		"<p>Your guesses so far: " +
